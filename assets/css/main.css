@@ -31,7 +31,8 @@ body {
 }
 .header__right {
     font-size: 21px;
-    color: rgba(249, 81, 51, .7);
+    /* color: rgba(249, 81, 51, .7); */
+    color: #161513;
 }
 
 .intro {
@@ -100,13 +101,14 @@ body {
     padding: 10px 20px;
     font-size: 30px;
     letter-spacing: 170%;
-    background-color: rgba(249, 81, 51, 1);
+    background-color: #161513;
+    /* background-color: rgba(249, 81, 51, 1); */
     max-width: 460px;
     filter: blur(.5px);
-    filter: drop-shadow(4px 4px 5px #f95133);
+    filter: drop-shadow(4px 4px 5px #161513);
     margin-bottom: 40px;
     text-decoration: none;
-    color: #000;
+    color: #F2F1EF;
     transition: all .3s;
 }
 .info__bottom-button:hover {
@@ -149,4 +151,16 @@ body {
 .why__img {
     width: 60%;
     border: 2px solid #161513;
+    margin-bottom: 40px;
+}
+.why__button {
+    text-decoration: none;
+    background-color: #161513;
+    color: #F2F1EF;
+    padding: 10px 25px;
+    transition: all .3s;
+}
+.why__button:hover {
+    color: #161513;
+    background-color: #F2F1EF;
 }
