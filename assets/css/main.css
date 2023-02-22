@@ -27,7 +27,6 @@ body {
     padding: 10px;
     border: 2px solid #f95133;
     border-radius: 25px;
-    filter: blur(.4px);
 }
 .header__right {
     font-size: 21px;
@@ -78,7 +77,6 @@ body {
     /* filter: blur(.5px);
     filter: drop-shadow(4px 4px 10px #f95133); */
     margin-bottom: 40px;
-    filter: blur(.6px);
     font-family: monospace;
 }
 .intro__info-subtitle p {
