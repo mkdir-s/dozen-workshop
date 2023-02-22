@@ -133,7 +133,6 @@ body {
     margin-bottom: 40px;
     background-color: #eee;
     color: rgb(61, 53, 53);
-    filter: blur(.3px);
 }
 .why__descr {
     font-size: 22px;
