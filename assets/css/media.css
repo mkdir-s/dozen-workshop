@@ -98,4 +98,8 @@
     .why__button {
         font-size: 15px;
     }
+    .intro__info-title {
+        animation: none;
+        border: none;
+    }
 }

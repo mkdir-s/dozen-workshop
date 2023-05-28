@@ -76,6 +76,7 @@ body {
     max-width: 460px;
     /* filter: blur(.5px);
     filter: drop-shadow(4px 4px 10px #f95133); */
+    filter: none;
     margin-bottom: 40px;
     font-family: monospace;
 }
